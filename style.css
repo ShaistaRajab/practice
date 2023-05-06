@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+body{
+background-color:#ffedd5 ;
+}
+
+.search{
+margin: 5px 20px 5px 1100px;
+border-color: #ab296a;
+}
+.search:hover{
+    background-color: #ffedd5 ;
+    border-color: #ab296a;
+}
+
+.color{
+    color: black;
+}
+.color:hover{
+    color: #ab296a;
+}
+
+h2{
+    color: #ab296a;
+    margin: 10px;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+
+.intro{
+    background-color: #fca5a5;
+    border-color: #ab296a;
+}
+.intro:hover{
+    background-color: #fca5a5;
+    border-color: #ab296a;
+}
+
+.deal{
+    background-color: #fca5a5 ;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.mar{
+    color: #ab296a;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.car{
+    margin: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h3{
+    color: #ab296a;
+    /* border: 2px dotted #ab296a; */
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.foot{
+    background-color: #fca5a5;
+    color: black;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+
+
+
+
+#fed7aa
+#fca5a5
+#ffedd5
